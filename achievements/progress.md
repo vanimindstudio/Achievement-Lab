@@ -7,7 +7,7 @@ Personal achievement tracking log for Achievement-Lab.
 |  #  | Achievement         |   Status    | Unlocked Date |
 | :-: | :------------------ | :---------: | :-----------: |
 | 01  | Pull Shark          | 🟢 Unlocked |       —       |
-| 02  | Quickdraw           |  🔒 Locked  |       —       |
+| 02  | Quickdraw           | 🟢 Unlocked |  2026-11-20   |
 | 03  | YOLO                |  🔒 Locked  |       —       |
 | 04  | Pair Extraordinaire |  🔒 Locked  |       —       |
 | 05  | Galaxy Brain        |  🔒 Locked  |       —       |
@@ -19,10 +19,10 @@ Personal achievement tracking log for Achievement-Lab.
 | Metric                     | Value |
 | :------------------------- | :---: |
 | Total tracked achievements |   7   |
-| Unlocked                   |   0   |
-| In progress                |   1   |
-| Locked                     |   6   |
-| Completed percentage       |  0%   |
+| Unlocked                   |   2   |
+| In progress                |   0   |
+| Locked                     |   5   |
+| Completed percentage       | 28.6% |
 
 _Update this section whenever an achievement is unlocked._
 
