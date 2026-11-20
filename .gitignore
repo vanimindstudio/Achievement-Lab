@@ -1,0 +1,41 @@
+# Operating System
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Windows
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Visual Studio Code
+.vscode/*
+!.vscode/extensions.json
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.log
+
+# Backup files
+*.old
+*.orig
+
+# Environment files
+.env
+.env.*
+!.env.example
